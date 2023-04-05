@@ -1,0 +1,15 @@
+/Users/aayushmdesai14/tmdbWorkspace/bin/Debug/net5.0/tmdbWorkspace.deps.json
+/Users/aayushmdesai14/tmdbWorkspace/bin/Debug/net5.0/tmdbWorkspace.runtimeconfig.json
+/Users/aayushmdesai14/tmdbWorkspace/bin/Debug/net5.0/tmdbWorkspace.runtimeconfig.dev.json
+/Users/aayushmdesai14/tmdbWorkspace/bin/Debug/net5.0/tmdbWorkspace.dll
+/Users/aayushmdesai14/tmdbWorkspace/bin/Debug/net5.0/ref/tmdbWorkspace.dll
+/Users/aayushmdesai14/tmdbWorkspace/bin/Debug/net5.0/tmdbWorkspace.pdb
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.csproj.AssemblyReference.cache
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.AssemblyInfoInputs.cache
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.AssemblyInfo.cs
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.csproj.CoreCompileInputs.cache
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.dll
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/ref/tmdbWorkspace.dll
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.pdb
+/Users/aayushmdesai14/tmdbWorkspace/obj/Debug/net5.0/tmdbWorkspace.genruntimeconfig.cache
